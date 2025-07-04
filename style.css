@@ -1,0 +1,14 @@
+/* Styling for my Recipes Webpage
+*/
+
+h1 {
+    font-weight: bolder;    
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    font-weight: 500;
+}
